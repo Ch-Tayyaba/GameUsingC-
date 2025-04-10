@@ -1,0 +1,5 @@
+﻿  2022-CS-134.cpp
+F:\3rd Semester\DSA\Lab05\Lab05\2022-CS-134.cpp(38,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\3rd Semester\DSA\Lab05\Lab05\2022-CS-134.cpp(48,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\3rd Semester\DSA\Lab05\Lab05\2022-CS-134.cpp(160): warning C4715: 'BinarySearch': not all control paths return a value
+  Lab05.vcxproj -> F:\3rd Semester\DSA\Lab05\x64\Debug\Lab05.exe

@@ -1,0 +1,8 @@
+﻿  2022-CS-134.cpp
+F:\3rd Semester\DSA\Lab11\Lab11\2022-CS-134.cpp(50,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\3rd Semester\DSA\Lab11\Lab11\2022-CS-134.cpp(168,9): message : see reference to function template instantiation 'void BubbleSort<int>(std::vector<int,std::allocator<int>> &)' being compiled
+F:\3rd Semester\DSA\Lab11\Lab11\2022-CS-134.cpp(63,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\3rd Semester\DSA\Lab11\Lab11\2022-CS-134.cpp(172,9): message : see reference to function template instantiation 'void SelectionSort<int>(std::vector<int,std::allocator<int>> &)' being compiled
+F:\3rd Semester\DSA\Lab11\Lab11\2022-CS-134.cpp(79,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\3rd Semester\DSA\Lab11\Lab11\2022-CS-134.cpp(176,9): message : see reference to function template instantiation 'void QuickSort<int>(std::vector<int,std::allocator<int>> &)' being compiled
+  Lab11.vcxproj -> F:\3rd Semester\DSA\Lab11\x64\Debug\Lab11.exe

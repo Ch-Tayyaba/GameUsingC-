@@ -1,0 +1,5 @@
+﻿  2022-CS-134.cpp
+F:\3rd Semester\DSA\Lab03\Lab03\2022-CS-134.cpp(91,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\3rd Semester\DSA\Lab03\Lab03\2022-CS-134.cpp(119,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\3rd Semester\DSA\Lab03\Lab03\2022-CS-134.cpp(132,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab03.vcxproj -> F:\3rd Semester\DSA\Lab03\x64\Debug\Lab03.exe
